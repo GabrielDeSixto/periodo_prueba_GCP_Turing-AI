@@ -1,0 +1,5 @@
+ID,Nombre,Email,FechaEvento,Descripcion,Extra1,Extra2,PROCESADO
+1,Ana Perez,ana.perez@example.com,2025-09-15T10:00:00Z,Reunión inicial,,,
+2,Carlos Ruiz,,2025-09-20T09:30:00Z,Seguimiento de proyecto,,,
+3,María Gómez,maria.gomez@example.com,,Registro sin fecha,,,
+4,Test User,test.user@example.com,not-a-date,Fecha mal formateada,,,
